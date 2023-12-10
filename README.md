@@ -18,4 +18,4 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 ## Commandes
 
-/bill : permet d'ouvrir le menu des factures
+/bill : permet d'ouvrir le menu des factures (l'argent est prélevé sur le compte en banque et déposé sur le compte de l'entreprise)
