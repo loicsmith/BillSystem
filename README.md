@@ -8,7 +8,7 @@ En cas de problème/questions, vous pouvez me contactez sur discord : loicsmith 
 
 
 ## Installation
-1. Télecharger le plugin (le .dll) : https://github.com/loicsmith/medicSystem/releases/tag/BillSystem
+1. Télecharger le plugin (le .dll) : https://github.com/loicsmith/BillSystem/releases/tag/BillSystem
 2. Placer le dans votre dossier plugins de votre serveur
 3. Démarrer votre serveur
 
