@@ -1,5 +1,4 @@
-![](https://media.discordapp.net/attachments/1174014039333031936/1186032578776547388/BillSystem.jpg)
-
+<img src="https://media.discordapp.net/attachments/1174014039333031936/1186032578776547388/BillSystem.jpg" width="300"/>
 # PLUGIN BillSytem
 
 Plugin de facture d'entreprise sur le jeu Nova-Life : Amboise
